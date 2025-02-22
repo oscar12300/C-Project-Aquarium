@@ -1,4 +1,5 @@
 # 水族箱
+## 設計規則
 ### 1.結構 編號1~5號魚
 - 編號 int
 - 名稱	char name[20]
@@ -13,15 +14,12 @@
 ### 5.起始5個飼料，可於互動中隨機取得額外飼料
 ### 6.各種事項用選單輸入
 
-## 起始畫面
+## 起始畫面(Demo)
 ![image](https://github.com/user-attachments/assets/6b95463b-e106-42e6-9824-0459a2a60550)
-<br/>
-<br/>**輸入選單對應號碼執行動作，起手將有五隻魚**<br/>
-<br/>
+## 動作執行(餵食、互動)
+<br/><br/>**輸入選單對應號碼執行動作，起手將有五隻魚**<br/><br/>
 ![image](https://github.com/user-attachments/assets/be4a255a-8eb6-4429-9249-0db1472360da)
-<br/>
-<br/>**藉由動作選單執行動作**<br/>
-<br/>
+<br/><br/>**藉由動作選單執行動作**<br/><br/>
 ![image](https://github.com/user-attachments/assets/b7cc2b03-146b-4414-8ad8-edf9c2f73716)
 <br/><br/>**可指定餵食的對象，餵食會增加體型和生命值**<br/><br/>
 ![image](https://github.com/user-attachments/assets/8875b90c-576b-40db-b4bd-f3a5cca1111a)
